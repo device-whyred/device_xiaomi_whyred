@@ -105,5 +105,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.usb@1.0-service.basic
 
+# XiaomiDoze
+PRODUCT_PACKAGES += \
+    XiaomiDoze
+
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
