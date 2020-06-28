@@ -80,6 +80,11 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/configs/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json
 
+
+# Recorder
+PRODUCT_PACKAGES += \
+    KimciRecorder
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
