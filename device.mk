@@ -90,6 +90,10 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.device.rc
 
+# Prebuilts
+PRODUCT_PACKAGES += \
+    OPScreenRecorder
+
 # XiaomiParts
 PRODUCT_PACKAGES += \
    XiaomiParts
