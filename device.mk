@@ -78,8 +78,8 @@ PRODUCT_PACKAGES += \
     init.device.rc
 
 # XiaomiParts
-PRODUCT_PACKAGES += \
-   XiaomiParts
+#PRODUCT_PACKAGES += \
+   #XiaomiParts
 
 # Shims
 PRODUCT_PACKAGES += \
