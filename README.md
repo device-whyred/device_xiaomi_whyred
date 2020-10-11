@@ -1,8 +1,8 @@
-The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from Xiaomi announced in September 2018.
+The Xiaomi Redmi Note 5 Pro (codenamed _"whyred"_) is a mid-range smartphone from Xiaomi announced in September 2018.
 
 ## Device specifications
 
-| Device                  | Xiaomi Redmi Note 6 Pro                                     |
+| Device                  | Xiaomi Redmi Note 5 Pro                                     |
 | ----------------------- | :---------------------------------------------------------- |
 | SoC                     | Qualcomm SDM660 Snapdragon 636                              |
 | CPU                     | 8x Qualcomm® Kryo™ 260 CPU                                  |
@@ -12,17 +12,15 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 | Storage                 | 64GB eMMC 5.1 flash storage                                 |
 | MicroSD                 | Up to 256 GB                                                |
 | Battery                 | Non-removable Li-Po 4000 mAh                                |
-| Dimensions              | 157.9 x 76.4 x 8.3 mm                                       |
-| Display                 | 2280 x 1080 (19:9), 6.26 inch                               |
-| Rear camera 1           | 12 MP, f/1.9, 1/2.55", 1.4µm, dual pixel PDAF               |
-| Rear camera 2           | 5 MP, f/2.2, 1.12µm, depth sensor                           |
-| Front camera 1          | 20 MP, f/2.0, 0.9µm                                         |
-| Front camera 2          | 2 MP, f/2.2, 1.75µm, depth sensor                           |
-
+| Dimensions              | 158.6 x 75.4 x 8.1 mm                                       |
+| Display                 | 1080 x 2160 pixels,5.99 inch                                |
+| Rear camera 1           | 12 MP, f/2.2, 1/2.9", 1.25µm, PDAF                          |
+| Rear camera 2           | 5 MP, f/2.0, (depth                                         |
+| Front camera 1          | 20 MP, f/2.2, (wide), 1/3", 0.9µm                           |
 
 ## Device picture
 
-![Xiaomi Redmi Note 6 Pro](https://img.timesnownews.com/story/1544521578-Xiaomi_Redmi_Note_6_Pro_colours.jpg)
+![Xiaomi Redmi Note 6 Pro](https://img.timesnownews.com/story/1544521578-Xiaomi_Redmi_Note_5_Pro_colours.jpg)
 
 ## Copyright
 
