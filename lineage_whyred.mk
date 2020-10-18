@@ -35,6 +35,15 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR_PRODUCT_NAME := whyred
 
+# GAPPS
+$(call inherit-product, vendor/gapps/gapps.mk)
+TARGET_GAPPS_ARCH := arm64
+IS_PHONE := true
+TARGET_INCLUDE_STOCK_ARCORE := true
+
+#Lineage-X
+LINEAGE_BUILDTYPE := unofficial
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="whyred-user 9 PKQ1.180904.001 20.4.27 release-keys"
 

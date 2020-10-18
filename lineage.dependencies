@@ -1,0 +1,10 @@
+[
+},
+  {
+    "remote" : "gitlab",
+    "repository" : "OdSazib/gapps",
+    "target_path" : "vendor/gapps",
+    "branch" : "ten",
+    "clone-depth" : "1"
+  }
+]
