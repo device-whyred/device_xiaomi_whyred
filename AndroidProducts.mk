@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_whyred.mk
+    $(LOCAL_DIR)/bootleg_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_whyred-user \
-    lineage_whyred-userdebug \
-    lineage_whyred-eng
+    bootleg_whyred-user \
+    bootleg_whyred-userdebug \
+    bootleg_whyred-eng
