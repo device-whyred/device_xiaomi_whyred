@@ -24,7 +24,9 @@ $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 # RR Stuffs
 TARGET_FACE_UNLOCK_SUPPORTED := true
-RR_BUILDTYPE := unofficial
+RR_BUILDTYPE := UNOFFICIAL
+TARGET_GAPPS_ARCH := arm64
+WITH_GAPPS := true
 
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
