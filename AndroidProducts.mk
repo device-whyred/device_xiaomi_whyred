@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_whyred.mk
+    $(LOCAL_DIR)/ancient_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_whyred-user \
-    bootleg_whyred-userdebug \
-    bootleg_whyred-eng
+    ancient_whyred-user \
+    ancient_whyred-userdebug \
+    ancient_whyred-eng
