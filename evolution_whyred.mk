@@ -23,6 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
+EVO_MAINTAINER := Mohammad_Iqbal
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Inherit from whyred device
