@@ -91,10 +91,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OPScreenRecorder
 
-# XiaomiParts
-PRODUCT_PACKAGES += \
-   XiaomiParts
-
 # Shims
 PRODUCT_PACKAGES += \
     libcamera_sdm660_shim
