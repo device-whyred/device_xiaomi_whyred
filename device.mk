@@ -80,6 +80,10 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_PACKAGES += \
     KimciRecorder
 
+# Retro
+PRODUCT_PACKAGES += \
+    RetroMusic
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
