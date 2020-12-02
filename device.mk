@@ -107,7 +107,7 @@ PRODUCT_PACKAGES += \
 
 # XiaomiDoze
 PRODUCT_PACKAGES += \
-    XiaomiDoze
+#    XiaomiDoze
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
