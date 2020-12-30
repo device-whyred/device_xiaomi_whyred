@@ -23,6 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk) 
 NAD_BUILD_TYPE := UNOFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_INCLUDE_STOCK_ARCORE := true
 
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
