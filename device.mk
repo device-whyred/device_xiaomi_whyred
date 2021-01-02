@@ -110,3 +110,9 @@ PRODUCT_PACKAGES += \
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
+
+#hal
+PRODUCT_SOONG_NAMESPACES += \
+    hardware/qcom/media \
+    hardware/qcom/display \
+    vendor/qcom/audio-hal/primary-hal
