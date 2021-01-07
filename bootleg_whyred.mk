@@ -21,6 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 
 # Inherit some common Bootleggers stuff
 $(call inherit-product, vendor/bootleggers/config/common_full_phone.mk)
+TARGET_INCLUDE_STOCK_ARCORE := true
 
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
