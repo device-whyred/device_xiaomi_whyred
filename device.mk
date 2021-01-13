@@ -95,7 +95,7 @@ PRODUCT_PACKAGES += \
 
 # XiaomiParts
 PRODUCT_PACKAGES += \
-   XiaomiParts
+#   XiaomiParts
 
 # Shims
 PRODUCT_PACKAGES += \
@@ -108,6 +108,10 @@ PRODUCT_COPY_FILES += \
 # USB
 PRODUCT_PACKAGES += \
     android.hardware.usb@1.0-service.basic
+
+# Wallpapers
+PRODUCT_PACKAGES += \
+    NusantaraPapers
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
