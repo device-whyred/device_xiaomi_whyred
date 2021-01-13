@@ -1,0 +1,32 @@
+[
+  {
+    "remote"        : "github",
+    "repository"    : "device-whyred/device_xiaomi_sdm660-common-whyred",
+    "target_path"   : "device/xiaomi/sdm660-common",
+    "revision"      : "Nad"
+  },
+  { 
+    "remote"        : "github",
+    "repository"    : "device-whyred/Predator-stable-X00T-WHYRED-Discontinued-",
+    "target_path"   : "kernel/xiaomi/sdm660",
+    "revision"      : "whyred-eas"
+  },
+  {
+    "remote"        : "gh",
+    "repository"    : "device-whyred/vendor_xiaomi_whyred",
+    "target_path"   : "vendor/xiaomi/MiuiCamera",
+    "revision"      : "MiuiCamera"
+  },
+  {
+    "remote"        : "priv",
+    "repository"    : "android_packages_apps_NusantaraParts",
+    "target_path"   : "packages/apps/NusantaraParts",
+    "branch"        : "4.4"
+  },
+  {
+    "remote"        : "priv",
+    "repository"    : "android_packages_apps_NusantaraPapers",
+    "target_path"   : "packages/apps/NusantaraPapers",
+    "branch"        : "10"
+  }
+]
