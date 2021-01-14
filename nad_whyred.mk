@@ -25,9 +25,6 @@ NAD_BUILD_TYPE := UNOFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
 
-# NusantaraParts
-$(call inherit-product-if-exists, packages/apps/NusantaraParts/nadproject.mk)
-
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 

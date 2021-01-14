@@ -95,7 +95,7 @@ PRODUCT_PACKAGES += \
 
 # XiaomiParts
 PRODUCT_PACKAGES += \
-#   XiaomiParts
+   XiaomiParts
 
 # Shims
 PRODUCT_PACKAGES += \
