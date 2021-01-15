@@ -24,6 +24,9 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 NAD_BUILD_TYPE := UNOFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
+USE_GAPPS := true
+IS_PHONE := true
+TARGET_GAPPS_ARCH := arm64
 
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
