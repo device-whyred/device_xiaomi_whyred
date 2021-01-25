@@ -31,7 +31,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := lineage_whyred
-PRODUCT_MODEL := Redmi Note 5 Pro
+PRODUCT_MODEL := Redmi Note 5
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
@@ -40,4 +40,4 @@ TARGET_VENDOR_PRODUCT_NAME := whyred
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="whyred-user 9 PKQ1.180904.001 20.4.27 release-keys"
 
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.201205.010/6953398:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys
