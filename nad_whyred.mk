@@ -21,9 +21,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 
 # Inherit some common NusantaraROM stuff
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
-NAD_BUILD_TYPE := Predator-EditioN
+NAD_BUILD_TYPE := UNOFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
+USE_AOSP_CLOCK := true
+USE_AOSP_DIALER := true
 TARGET_GAPPS_ARCH := arm64
 USE_GAPPS := true
 IS_PHONE := true
